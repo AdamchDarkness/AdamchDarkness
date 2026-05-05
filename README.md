@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Freelance Developer<br>🐍 Certified Associate Python Programmer <br>💻 Passionate about Python, Web & Mobile development<br>🌟 Always exploring new technologies and opportunities<br>📫 Feel free to reach out for collaboration or interesting projects!
+🚀 Developer<br>🐍 Certified Associate Python Programmer <br>💻 Passionate about Python, Web & Mobile development<br>🌟 Always exploring new technologies and opportunities<br>📫 Feel free to reach out for collaboration or interesting projects!
 
 
 ## 🌐 Socials:
